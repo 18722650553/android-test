@@ -70,7 +70,7 @@ maven_install(
         "androidx.viewpager:viewpager:" + ANDROIDX_VERSION,
         "aopalliance:aopalliance:1.0",
         "com.beust:jcommander:1.72",
-        "com.google.android.apps.common.testing.accessibility.framework:accessibility-test-framework:2.0",
+        "com.google.android.apps.common.testing.accessibility.framework:accessibility-test-framework:3.1",
         "com.google.android.material:material:" + GOOGLE_MATERIAL_VERSION,
         "com.google.auto.value:auto-value:1.5.1",
         "com.google.code.findbugs:jsr305:3.0.2",

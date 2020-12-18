@@ -56,7 +56,7 @@ maven_artifact(
     src = ":accessibility_checks_release.aar",
     artifact_deps = [
         "androidx.test.espresso:espresso-core:%s" % ESPRESSO_VERSION,
-        "com.google.android.apps.common.testing.accessibility.framework:accessibility-test-framework:2.0",
+        "com.google.android.apps.common.testing.accessibility.framework:accessibility-test-framework:3.1",
     ],
     artifact_id = "espresso-accessibility",
     group_id = "androidx.test.espresso",
